@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+
+# JS
+node_modules/
+
+# Python
+venv/
